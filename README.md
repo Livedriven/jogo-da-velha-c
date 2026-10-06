@@ -78,7 +78,7 @@ Marcação feita com sucesso
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/SEU-USUARIO/jogo-da-velha-c.git
+   git clone https://github.com/Livedriven/jogo-da-velha-c.git
    cd jogo-da-velha-c
    ```
 
